@@ -1,0 +1,2 @@
+# MyEvernotuser
+Keeps users' notes
