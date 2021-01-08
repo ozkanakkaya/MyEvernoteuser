@@ -1,0 +1,5 @@
+C:\Users\ozkan\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Core\bin\Debug\MyEvernote.Core.dll
+C:\Users\ozkan\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Core\bin\Debug\MyEvernote.Core.pdb
+C:\Users\ozkan\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.dll
+C:\Users\ozkan\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.pdb
